@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Interface\IDomainDataAccessor\" />
+    <Folder Include="QueryService\%28Implementation%29\" />
+    <Folder Include="QueryService\%28Interface%29\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BooksBorrow.AppConfiguration\BooksBorrow.AppConfiguration.csproj" />
+    <ProjectReference Include="..\BooksBorrow.Common\BooksBorrow.Common.csproj" />
+    <ProjectReference Include="..\BooksBorrow.Database\BooksBorrow.Database.csproj" />
+    <ProjectReference Include="..\BooksBorrow.InjectFramework\BooksBorrow.InjectFramework.csproj" />
+  </ItemGroup>
+
+</Project>

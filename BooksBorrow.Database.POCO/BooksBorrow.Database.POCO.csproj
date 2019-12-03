@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DataAccess\Domain\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LinqKit.Core" Version="1.1.16" />
+    <PackageReference Include="log4net" Version="2.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BooksBorrow.Common\BooksBorrow.Common.csproj" />
+    <ProjectReference Include="..\BooksBorrow.Database\BooksBorrow.Database.csproj" />
+    <ProjectReference Include="..\BooksBorrow.Domain.Core\BooksBorrow.Domain.Core.csproj" />
+  </ItemGroup>
+
+</Project>

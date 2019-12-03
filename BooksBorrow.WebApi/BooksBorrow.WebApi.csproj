@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\netcoreapp2.2\BooksBorrow.WebApi.xml</DocumentationFile>
+    <OutputPath>bin\Debug\netcoreapp2.2\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Exceptionless.AspNetCore" Version="4.3.2027" />
+    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.7.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="4.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="4.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Services\" />
+    <Folder Include="wwwroot\templates\" />
+    <Folder Include="wwwroot\upload\image\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BooksBorrow.Domain.Core\BooksBorrow.Domain.Core.csproj" />
+    <ProjectReference Include="..\BooksBorrow.Middlewares\BooksBorrow.Middlewares.csproj" />
+    <ProjectReference Include="..\BooksBorrow.RuntimeConfiguration\BooksBorrow.RuntimeConfiguration.csproj" />
+    <ProjectReference Include="..\BooksBorrow.Security.Bearer\BooksBorrow.Security.Bearer.csproj" />
+  </ItemGroup>
+
+</Project>

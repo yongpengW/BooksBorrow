@@ -1,0 +1,9 @@
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Database\bin\Debug\netcoreapp2.1\BooksBorrow.Database.deps.json
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Database\bin\Debug\netcoreapp2.1\BooksBorrow.Database.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Database\bin\Debug\netcoreapp2.1\BooksBorrow.Database.pdb
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Database\obj\Debug\netcoreapp2.1\BooksBorrow.Database.csprojAssemblyReference.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Database\obj\Debug\netcoreapp2.1\BooksBorrow.Database.csproj.CoreCompileInputs.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Database\obj\Debug\netcoreapp2.1\BooksBorrow.Database.AssemblyInfoInputs.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Database\obj\Debug\netcoreapp2.1\BooksBorrow.Database.AssemblyInfo.cs
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Database\obj\Debug\netcoreapp2.1\BooksBorrow.Database.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Database\obj\Debug\netcoreapp2.1\BooksBorrow.Database.pdb

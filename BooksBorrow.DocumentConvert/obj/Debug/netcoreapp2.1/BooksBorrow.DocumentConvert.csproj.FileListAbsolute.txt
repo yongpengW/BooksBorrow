@@ -1,0 +1,8 @@
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.DocumentConvert\bin\Debug\netcoreapp2.1\BooksBorrow.DocumentConvert.deps.json
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.DocumentConvert\bin\Debug\netcoreapp2.1\BooksBorrow.DocumentConvert.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.DocumentConvert\bin\Debug\netcoreapp2.1\BooksBorrow.DocumentConvert.pdb
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.DocumentConvert\obj\Debug\netcoreapp2.1\BooksBorrow.DocumentConvert.csproj.CoreCompileInputs.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.DocumentConvert\obj\Debug\netcoreapp2.1\BooksBorrow.DocumentConvert.AssemblyInfoInputs.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.DocumentConvert\obj\Debug\netcoreapp2.1\BooksBorrow.DocumentConvert.AssemblyInfo.cs
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.DocumentConvert\obj\Debug\netcoreapp2.1\BooksBorrow.DocumentConvert.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.DocumentConvert\obj\Debug\netcoreapp2.1\BooksBorrow.DocumentConvert.pdb

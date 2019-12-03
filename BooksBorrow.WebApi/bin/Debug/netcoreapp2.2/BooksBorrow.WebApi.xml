@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BooksBorrow.WebApi</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "P:BooksBorrow.WebApi.Models.ApiActionResult.data" -->
+        <member name="P:BooksBorrow.WebApi.Models.JwtSettings.Issuer">
+            <summary>
+            Who issuer this token
+            </summary>
+        </member>
+        <member name="P:BooksBorrow.WebApi.Models.JwtSettings.Audience">
+            <summary>
+            Which platform can use this token
+            </summary>
+        </member>
+        <member name="P:BooksBorrow.WebApi.Models.JwtSettings.SecretKey">
+            <summary>
+            Secret key seed
+            </summary>
+        </member>
+        <member name="M:BooksBorrow.WebApi.Program.BuildWebHost(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

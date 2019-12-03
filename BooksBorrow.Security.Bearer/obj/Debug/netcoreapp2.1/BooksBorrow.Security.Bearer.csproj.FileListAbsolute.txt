@@ -1,0 +1,13 @@
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Security.Bearer\bin\Debug\netcoreapp2.1\BooksBorrow.Security.Bearer.deps.json
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Security.Bearer\bin\Debug\netcoreapp2.1\BooksBorrow.Security.Bearer.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Security.Bearer\bin\Debug\netcoreapp2.1\BooksBorrow.Security.Bearer.pdb
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Security.Bearer\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Security.Bearer\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.pdb
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Security.Bearer\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.xml
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Security.Bearer\obj\Debug\netcoreapp2.1\BooksBorrow.Security.Bearer.csprojAssemblyReference.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Security.Bearer\obj\Debug\netcoreapp2.1\BooksBorrow.Security.Bearer.csproj.CoreCompileInputs.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Security.Bearer\obj\Debug\netcoreapp2.1\BooksBorrow.Security.Bearer.AssemblyInfoInputs.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Security.Bearer\obj\Debug\netcoreapp2.1\BooksBorrow.Security.Bearer.AssemblyInfo.cs
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Security.Bearer\obj\Debug\netcoreapp2.1\BooksBorrow.Security.Bearer.csproj.CopyComplete
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Security.Bearer\obj\Debug\netcoreapp2.1\BooksBorrow.Security.Bearer.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Security.Bearer\obj\Debug\netcoreapp2.1\BooksBorrow.Security.Bearer.pdb

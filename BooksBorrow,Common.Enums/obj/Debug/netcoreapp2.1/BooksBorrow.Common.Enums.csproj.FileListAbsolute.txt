@@ -1,0 +1,8 @@
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow,Common.Enums\bin\Debug\netcoreapp2.1\BooksBorrow.Common.Enums.deps.json
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow,Common.Enums\bin\Debug\netcoreapp2.1\BooksBorrow.Common.Enums.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow,Common.Enums\bin\Debug\netcoreapp2.1\BooksBorrow.Common.Enums.pdb
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow,Common.Enums\obj\Debug\netcoreapp2.1\BooksBorrow.Common.Enums.csproj.CoreCompileInputs.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow,Common.Enums\obj\Debug\netcoreapp2.1\BooksBorrow.Common.Enums.AssemblyInfoInputs.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow,Common.Enums\obj\Debug\netcoreapp2.1\BooksBorrow.Common.Enums.AssemblyInfo.cs
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow,Common.Enums\obj\Debug\netcoreapp2.1\BooksBorrow.Common.Enums.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow,Common.Enums\obj\Debug\netcoreapp2.1\BooksBorrow.Common.Enums.pdb

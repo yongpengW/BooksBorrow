@@ -1,0 +1,8 @@
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.WebApi.DTO\bin\Debug\netcoreapp2.1\BooksBorrow.WebApi.DTO.deps.json
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.WebApi.DTO\bin\Debug\netcoreapp2.1\BooksBorrow.WebApi.DTO.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.WebApi.DTO\bin\Debug\netcoreapp2.1\BooksBorrow.WebApi.DTO.pdb
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.WebApi.DTO\obj\Debug\netcoreapp2.1\BooksBorrow.WebApi.DTO.csproj.CoreCompileInputs.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.WebApi.DTO\obj\Debug\netcoreapp2.1\BooksBorrow.WebApi.DTO.AssemblyInfoInputs.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.WebApi.DTO\obj\Debug\netcoreapp2.1\BooksBorrow.WebApi.DTO.AssemblyInfo.cs
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.WebApi.DTO\obj\Debug\netcoreapp2.1\BooksBorrow.WebApi.DTO.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.WebApi.DTO\obj\Debug\netcoreapp2.1\BooksBorrow.WebApi.DTO.pdb

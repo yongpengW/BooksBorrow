@@ -1,0 +1,12 @@
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Middlewares\bin\Debug\netcoreapp2.1\BooksBorrow.Middlewares.deps.json
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Middlewares\bin\Debug\netcoreapp2.1\BooksBorrow.Middlewares.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Middlewares\bin\Debug\netcoreapp2.1\BooksBorrow.Middlewares.pdb
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Middlewares\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authorization.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Middlewares\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authorization.xml
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Middlewares\obj\Debug\netcoreapp2.1\BooksBorrow.Middlewares.csprojAssemblyReference.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Middlewares\obj\Debug\netcoreapp2.1\BooksBorrow.Middlewares.csproj.CoreCompileInputs.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Middlewares\obj\Debug\netcoreapp2.1\BooksBorrow.Middlewares.AssemblyInfoInputs.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Middlewares\obj\Debug\netcoreapp2.1\BooksBorrow.Middlewares.AssemblyInfo.cs
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Middlewares\obj\Debug\netcoreapp2.1\BooksBorrow.Middlewares.csproj.CopyComplete
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Middlewares\obj\Debug\netcoreapp2.1\BooksBorrow.Middlewares.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Middlewares\obj\Debug\netcoreapp2.1\BooksBorrow.Middlewares.pdb

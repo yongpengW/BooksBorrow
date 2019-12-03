@@ -1,0 +1,12 @@
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Common\bin\Debug\netcoreapp2.1\BooksBorrow.Common.deps.json
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Common\bin\Debug\netcoreapp2.1\BooksBorrow.Common.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Common\bin\Debug\netcoreapp2.1\BooksBorrow.Common.pdb
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Common\bin\Debug\netcoreapp2.1\BooksBorrow.InjectFramework.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Common\bin\Debug\netcoreapp2.1\BooksBorrow.InjectFramework.pdb
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Common\obj\Debug\netcoreapp2.1\BooksBorrow.Common.csprojAssemblyReference.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Common\obj\Debug\netcoreapp2.1\BooksBorrow.Common.csproj.CoreCompileInputs.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Common\obj\Debug\netcoreapp2.1\BooksBorrow.Common.AssemblyInfoInputs.cache
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Common\obj\Debug\netcoreapp2.1\BooksBorrow.Common.AssemblyInfo.cs
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Common\obj\Debug\netcoreapp2.1\BooksBorrow.Common.csproj.CopyComplete
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Common\obj\Debug\netcoreapp2.1\BooksBorrow.Common.dll
+D:\ShinetechProject\BooksBorrow_API\BooksBorrow.Common\obj\Debug\netcoreapp2.1\BooksBorrow.Common.pdb

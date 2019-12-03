@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BooksBorrow.AppConfiguration\BooksBorrow.AppConfiguration.csproj" />
+    <ProjectReference Include="..\BooksBorrow.Common\BooksBorrow.Common.csproj" />
+    <ProjectReference Include="..\BooksBorrow.Database.POCO\BooksBorrow.Database.POCO.csproj" />
+    <ProjectReference Include="..\BooksBorrow.Domain.Core\BooksBorrow.Domain.Core.csproj" />
+    <ProjectReference Include="..\BooksBorrow.InjectFramework\BooksBorrow.InjectFramework.csproj" />
+  </ItemGroup>
+
+</Project>
